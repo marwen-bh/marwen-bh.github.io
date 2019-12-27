@@ -3,187 +3,196 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ahmed BEN HAMOUDA
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ahmed.benhamouda@etudiant-isi.utm.tn
+    phone: +216 27 086 478
+    website: ahmed-ben-hamouda.github.io #do not add http://
+    linkedin: ahmed-ben-hamouda-27692b102
+    github: ahmed-BH
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: 
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 44832577-ahmed-ben-hamouda # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Arabic
         level: Native
 
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
+      - item: Football
+        link: 
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Camping
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have been working on different projects with latest technologies and in different domains,
+      taking adventage of new and performing features as well as gaining new perspectives. 
+      I have a love of performing, optimise and well-made systems. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Software Engineer
+      university: Higher Institute Of Computer Science
+      time: 2017 - Now
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        
+
+    - degree: Undergraduate in Computer Science
+      university: Higher Institute Of Computer Science
+      time: 2014 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
+    
+    - degree: Bachelor in Computing
+      university: Hamida BAKIR High School
+      time: 2011 - 2014
+      details: |
+        
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Summer Intern
+      time: Jun-Aug 2019
+      company: iTesLab
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Developing a Smart-Parking Android app that assures payment process.<br>
+        Tools :
+          - Android
+          - Orange MobiMoney
+          - REST APIs
+
+    - role: Summer Intern
+      time: jul-Sep 2018
+      company: iTesLab
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Developing a Smart-Parking module that detects and tracks vehicles.<br>
+        Tools:
+          - Python
+          - OpenCV for image detection and tracking
+          - OpenALPR for licence plate recognition
+          - Sanic (Python micro web framework)
+
+    - role: Undergraduate Intern
+      time: Feb-May 2017 
+      company: Carthage BusinessWare
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Design&built an Android and desktop app that extracts information from identity papers
+       such as passports.<br>
+       Tools:
+          - Tessract
+          - ABBYY Cloud OCR
+          - Android
+          - JAVA
+
+    - role: Summer Intern
+      time: Aug-Sep 2016
+      company: Carthage BusinessWare
+      details: |
+       Developing a web application that facilitates finding Zip Codes and exact 
+       locations in Tunisia.<br>
+       Tools:
+       Tools:
+          - PHP5
+          - Bootstrap
+          - Google Maps API
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Projects I have been working on during my free time.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Texture Based Image Retriever
+        link: "https://github.com/ahmed-BH/TextureBasedImageRetriever"
+        tagline: "Content Based Image Retriever that focuses on texture."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: TimeTable-Gen
+        link: "https://github.com/ahmed-BH/TimeTable-Gen"
+        tagline: "Python program that generates timetables using genetic algorithms."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: FB-interpreter
+        link: "https://github.com/ahmed-BH/FB-interpreter"
+        tagline: "A logic-arithmetic interpreter with variable and string support, build with Flex and Bison."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Saiko_Denshin
+        link: "https://github.com/ahmed-BH/Saiko_Denshin"
+        tagline: "Guess which person (a boxer in this case) the player is thinking of by asking a series of questions."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: pybro
+        link: "https://github.com/ahmed-BH/pybro"
+        tagline: "A python module that provide access to different browsers's history database."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Python & Java & NodeJS
         level: 85%
+      
+      - name: C/C++
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: SQL & NoSQL
+        level: 79%
+      
+      - name: Mysql & PostgreSQL
+        level: 90%
+
+      - name: IA & Machine Learning
+        level: 75%
+
+      - name: TensorFlow & Keras
+        level: 80%
+
+      - name: Docker & Kubernetes
+        level: 85%
+      
+      - name: Android
+        level: 70%
+      
+      - name: Angular & jQuery 
         level: 60%
+      
+      - name: HTML5 & CSS3
+        level: 60%
+
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
