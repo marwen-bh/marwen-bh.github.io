@@ -70,9 +70,9 @@ projects:
   intro: >
     Projects I have been working on during my free time.
   assignments:
-    - title: Texture Based Image Retriever
-      link: "https://github.com/ahmed-BH/TextureBasedImageRetriever"
-      tagline: "Content Based Image Retriever that focuses on texture."
+    - title: Creating a business website
+      link: "https://github.com/marwen-bh/static-website"
+      tagline: "A general business website."
 
 # publications:
 #     title: Publications
